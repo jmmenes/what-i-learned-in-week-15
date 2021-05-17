@@ -8,7 +8,7 @@ Functional programming is the process of building software by composing pure fun
 
 Functional programming is a programming paradigm, meaning that it is a way of thinking about software construction based on some fundamental, defining principles (listed above). Other examples of programming paradigms include object oriented programming and procedural programming.
 
-Functional code tends to be more concise, more predictable, and easier to test than imperative or object oriented code
+Functional code tends to be more concise, more predictable, and easier to test than imperative or object oriented code.
 
 &nbsp;
 
@@ -21,7 +21,7 @@ Lodash’s modular methods are great for:
 
 Iterating arrays, objects, & strings
 Manipulating & testing values
-Creating composite functions
+Creating composite functions.
 
 https://underscorejs.org/
 
